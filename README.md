@@ -7,6 +7,6 @@ Program Icon is from Televo's "Kingdom Hearts Recollection" archive: https://git
 
 # How To Use
 * Click on each button to navigate to that program's exe file. Once you have selected the apps you want, click `Run` to open them.
-* App directories will be saved saved for later in the `kh2fmLauncherConfig.ini` file, located in the same directory as the exe once run.
+* App directories will be saved saved for later in the `kh2fmLauncherConfig.ini` file, created in the same directory as the exe after you run it.
 > [!NOTE]
 > *You dont need to select all of the apps. Just leave a line blank if you dont want to run that program.*
